@@ -20,13 +20,7 @@ A Point of Sale (POS) system built with **React.js** and **Tailwind CSS** for ma
 Install dependencies:
 
 bash
-Copy code
-npm install
-Start the app:
-
-bash
-Copy code
-npm start
+npm run dev
 Visit http://localhost:5173.
 
 Components
