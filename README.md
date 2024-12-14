@@ -7,6 +7,7 @@ A Point of Sale (POS) system built with **React.js** and **Tailwind CSS** for ma
 - **Product Management**: Categorized products with easy navigation.
 - **Cart Management**: Add, remove, and modify cart items.
 - **Pagination**: Display pagination after 3 rows of products.
+Live Preview: https://poss-system.netlify.app/
 - **Payment**: Simulate payment with a "BETAL" button.
 - **Cancel**: Clear cart with a cancel button.
 
